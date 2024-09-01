@@ -42,55 +42,55 @@ Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-mode
 
 - [x]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html) [![alt handout-link](img/handout-20.png)](handouts/EnterpriseApplication.md)
 
-- [ ]  [Microservices](https://martinfowler.com/articles/microservices.html)
+- [x]  [Microservices](https://martinfowler.com/articles/microservices.html)
 
-- [ ]  [ImmutableServer](https://martinfowler.com/bliki/ImmutableServer.html)
+- [x]  [ImmutableServer](https://martinfowler.com/bliki/ImmutableServer.html)
 
-- [ ]  [Don't start with a
+- [x]  [Don't start with a
 monolith](https://martinfowler.com/articles/dont-start-monolith.html)
 
-- [ ]  [An Introduction to API's -- The RESTful
+- [x]  [An Introduction to API's -- The RESTful
 Web](https://restful.io/an-introduction-to-api-s-cee90581ca1b)
 
-- [ ]  [JSON:API --- A specification for building APIs in
+- [x]  [JSON:API --- A specification for building APIs in
 JSON](https://jsonapi.org/)
 
-- [ ]  [OWASP](https://www.owasp.org/index.php/Main_Page)
+- [x]  [OWASP](https://www.owasp.org/index.php/Main_Page)
 
-- [ ]  [Cross-site Scripting (XSS) -
+- [x]  [Cross-site Scripting (XSS) -
 OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 
-- [ ]  [SQL Injection - OWASP](https://www.owasp.org/index.php/SQL_Injection)
+- [x]  [SQL Injection - OWASP](https://www.owasp.org/index.php/SQL_Injection)
 
-- [ ]  [Web Service Security Cheat Sheet -
+- [x]  [Web Service Security Cheat Sheet -
 OWASP](https://www.owasp.org/index.php/Web_Service_Security_Cheat_Sheet)
 
-- [ ]  [Authentication Cheat Sheet -
+- [x]  [Authentication Cheat Sheet -
 OWASP](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 
-- [ ]  [Transport Layer Protection Cheat Sheet -
+- [x]  [Transport Layer Protection Cheat Sheet -
 OWASP](https://www.owasp.org/index.php/Transport_Layer_Protection_Cheat_Sheet)
 
-- [ ]  [Cross-Site Request Forgery (CSRF) -
+- [x]  [Cross-Site Request Forgery (CSRF) -
 OWASP](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 
-- [ ]  [Error Handling, Auditing and Logging -
+- [x]  [Error Handling, Auditing and Logging -
 OWASP](https://www.owasp.org/index.php/Error_Handling,_Auditing_and_Logging)
 
-- [ ]  [OWASP Cheat Sheet Series -
+- [x]  [OWASP Cheat Sheet Series -
 OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 
-- [ ]  [What is the relation between SQL, NoSQL, the CAP theorem and ACID? -
+- [x]  [What is the relation between SQL, NoSQL, the CAP theorem and ACID? -
 Quora](https://www.quora.com/What-is-the-relation-between-SQL-NoSQL-the-CAP-theorem-and-ACID)
 
-- [ ]  [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- [x]  [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 
-- [ ]  [The Agile Fluency
+- [x]  [The Agile Fluency
 Model](https://martinfowler.com/articles/agileFluency.html)
 
-- [ ]  [Agile Guide](https://martinfowler.com/agile.html)
+- [x]  [Agile Guide](https://martinfowler.com/agile.html)
 
-- [ ]  [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html)
+- [x]  [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html)
 
 ##  3. <a name='CloudComponentsandPlatforms'></a>Cloud Components and Platforms
 
