@@ -25,72 +25,72 @@
 
 ##  1. <a name='GettingStarted'></a>Getting Started 
 
-- [x]  [LPI Blog - DevOps Tools Introduction \#01: Getting 'Getting Started'
+- [ ]  [LPI Blog - DevOps Tools Introduction \#01: Getting 'Getting Started'
 Started \| Linux Professional
 Institute](https://www.lpi.org/blog/2018/01/09/devops-tools-introduction-01-getting-getting-started-started)
 
-- [x] [DevOps Tools Engineer Objectives V1 - LPI
+- [ ] [DevOps Tools Engineer Objectives V1 - LPI
 Wiki](https://wiki.lpi.org/wiki/DevOps_Tools_Engineer_Objectives_V1)
 
 ##  2. <a name='ModernSoftwareDevelopment'></a>Modern Software Development
 
-- [x]  [LPI Blog - DevOps Tools Introduction \#Modern Software Development
+- [ ]  [LPI Blog - DevOps Tools Introduction \#Modern Software Development
 \| Linux Professional
 Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-modern-software-development)
 
-- [x]  [The Twelve-Factor App](https://12factor.net/) [![alt handout-link](img/handout-20.png)](handouts/TwelveFactorApp.md)
+- [ ]  [The Twelve-Factor App](https://12factor.net/) [![alt handout-link](img/handout-20.png)](handouts/TwelveFactorApp.md)
 
-- [x]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html) [![alt handout-link](img/handout-20.png)](handouts/EnterpriseApplication.md)
+- [ ]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html) [![alt handout-link](img/handout-20.png)](handouts/EnterpriseApplication.md)
 
-- [x]  [Microservices](https://martinfowler.com/articles/microservices.html)
+- [ ]  [Microservices](https://martinfowler.com/articles/microservices.html)
 
-- [x]  [ImmutableServer](https://martinfowler.com/bliki/ImmutableServer.html)
+- [ ]  [ImmutableServer](https://martinfowler.com/bliki/ImmutableServer.html)
 
-- [x]  [Don't start with a
+- [ ]  [Don't start with a
 monolith](https://martinfowler.com/articles/dont-start-monolith.html)
 
-- [x]  [An Introduction to API's -- The RESTful
+- [ ]  [An Introduction to API's -- The RESTful
 Web](https://restful.io/an-introduction-to-api-s-cee90581ca1b)
 
-- [x]  [JSON:API --- A specification for building APIs in
+- [ ]  [JSON:API --- A specification for building APIs in
 JSON](https://jsonapi.org/)
 
-- [x]  [OWASP](https://www.owasp.org/index.php/Main_Page)
+- [ ]  [OWASP](https://www.owasp.org/index.php/Main_Page)
 
-- [x]  [Cross-site Scripting (XSS) -
+- [ ]  [Cross-site Scripting (XSS) -
 OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 
-- [x]  [SQL Injection - OWASP](https://www.owasp.org/index.php/SQL_Injection)
+- [ ]  [SQL Injection - OWASP](https://www.owasp.org/index.php/SQL_Injection)
 
-- [x]  [Web Service Security Cheat Sheet -
+- [ ]  [Web Service Security Cheat Sheet -
 OWASP](https://www.owasp.org/index.php/Web_Service_Security_Cheat_Sheet)
 
-- [x]  [Authentication Cheat Sheet -
+- [ ]  [Authentication Cheat Sheet -
 OWASP](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 
-- [x]  [Transport Layer Protection Cheat Sheet -
+- [ ]  [Transport Layer Protection Cheat Sheet -
 OWASP](https://www.owasp.org/index.php/Transport_Layer_Protection_Cheat_Sheet)
 
-- [x]  [Cross-Site Request Forgery (CSRF) -
+- [ ]  [Cross-Site Request Forgery (CSRF) -
 OWASP](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 
-- [x]  [Error Handling, Auditing and Logging -
+- [ ]  [Error Handling, Auditing and Logging -
 OWASP](https://www.owasp.org/index.php/Error_Handling,_Auditing_and_Logging)
 
-- [x]  [OWASP Cheat Sheet Series -
+- [ ]  [OWASP Cheat Sheet Series -
 OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 
-- [x]  [What is the relation between SQL, NoSQL, the CAP theorem and ACID? -
+- [ }  [What is the relation between SQL, NoSQL, the CAP theorem and ACID? -
 Quora](https://www.quora.com/What-is-the-relation-between-SQL-NoSQL-the-CAP-theorem-and-ACID)
 
-- [x]  [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- [ ]  [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 
-- [x]  [The Agile Fluency
+- [ ]  [The Agile Fluency
 Model](https://martinfowler.com/articles/agileFluency.html)
 
-- [x]  [Agile Guide](https://martinfowler.com/agile.html)
+- [ ]  [Agile Guide](https://martinfowler.com/agile.html)
 
-- [x]  [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html)
+- [ ]  [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html)
 
 ##  3. <a name='CloudComponentsandPlatforms'></a>Cloud Components and Platforms
 
